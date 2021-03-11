@@ -1,0 +1,14 @@
+{
+	"app_title": "Signup",
+	"label_user": "Username",
+	"label_email": "Email",
+	"label_pass": "Password",
+	"label_confirmpass": "Confirm",
+	"placeholder_user": "username",
+	"placeholder_email": "email",
+	"placeholder_pass": "password",
+	"placeholder_confirmpass": "confirm password",
+	"btn": "Signup",
+	"message": "I already have an account, ",
+  "signup_label": "login"
+}

@@ -1,0 +1,12 @@
+{
+	"app_title": "Login",
+	"label_user": "Username",
+	"label_email": "Email",
+	"label_pass": "Password",
+	"placeholder_user": "username",
+	"placeholder_email": "email",
+	"placeholder_pass": "password",
+	"btn": "Login",
+	"message": "Go back to ",
+  "login_label": "Signup"
+}
